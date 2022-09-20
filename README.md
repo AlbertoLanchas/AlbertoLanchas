@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Front End Developer from Spain</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertolanchas&label=Profile%20views&color=0e75b6&style=flat" alt="albertolanchas" /> </p>
 
-
 🔭 I’m currently open to work
+
+-  Contact with me : https://www.linkedin.com/in/alberto-lanchas/
+-  Write me an email! : lanchasdev@gmail.com
 
 💻 Developing my own projects 
 - **Rick & Morty API** https://rick-and-mortyl.web.app/
