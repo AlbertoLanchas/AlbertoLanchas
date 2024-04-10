@@ -4,12 +4,6 @@
 
 🔭 I’m currently open to work
 
--  Contact with me : https://www.linkedin.com/in/alberto-lanchas/
--  Write me an email! : lanchasdev@gmail.com
-
-💻 Developing my own projects 
-- **Rick & Morty API** https://rick-and-mortyl.web.app/
-- **Crypto Charts** https://crypto-graphics-98bcb.firebaseapp.com/
 
 
 <h3 align="left"> My TOP Tech Stack </h3>
